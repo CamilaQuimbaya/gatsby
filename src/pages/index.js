@@ -17,6 +17,7 @@ const IndexPage = () => {
                 />
       
       {/* Contenido de la página de inicio */}
+      <h1 className="text-white text-center  text-6xl mb-8   font-bold">Noticias</h1>
       <div className="container mx-auto mb-4">
           <div className="max-w-4xl mx-auto grid grid-cols-1 sm:grid-cols-3 gap-8">
 
