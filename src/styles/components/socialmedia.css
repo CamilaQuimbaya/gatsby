@@ -1,0 +1,21 @@
+.mySocialMediaContainer{
+    background-color: #004456;
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
+}
+
+.containerimg{
+    padding: 15px;
+}
+
+@media screen and (max-width: 908px) {
+    
+    .containerimg{
+        padding: 5px;
+    }
+    .socialmediaimg{
+        width: 80px;
+    }
+    
+}

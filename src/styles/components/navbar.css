@@ -1,0 +1,15 @@
+/* src/components/navbar.css */
+
+.navbar {
+    background-color: #004456;
+  }
+  
+  .navbar-link {
+    color: white;
+    margin-right: 20px;
+  }
+  
+  .navbar-link:hover {
+    text-decoration: underline;
+  }
+  
